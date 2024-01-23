@@ -1,3 +1,2 @@
 # Validando-cartoes
-
 A ideia aborda a estrutura e validação de números de cartões de crédito, destacando a presença de um algoritmo desenvolvido por Hans Peter Luhn da IBM. Este algoritmo, conhecido como Algoritmo de Luhn, verifica a validade sintática de um número de cartão de crédito através de uma série de passos, como a multiplicação de dígitos ímpares por 2 e a soma dos resultados. O desafio proposto é a criação de um programa em C que valide números de cartões de crédito de acordo com o Algoritmo de Luhn. O programa deve ler os números de um arquivo, classificá-los como AMEX, MASTERCARD, VISA ou INVALID, e considerar as regras específicas de cada bandeira.
